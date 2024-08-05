@@ -2,10 +2,10 @@
 
 
 ## 🚀 About Me
-I'm a Junior Data Scientist and former
+I'm a Data Analyst and former
 paralegal with a proven track record
 of optimizing case management
-through strategic use of data science.
+through strategic use of data analysis.
 Currently pursuing a graduate degree
 in data science, equipped with a solid
 foundation in statistical analysis,
